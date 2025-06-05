@@ -1,3 +1,5 @@
+
+
 # 🛒 Dự án Đấu Giá Ngược Blockchain
 
 Đây là một ứng dụng web mô phỏng **hệ thống đấu giá ngược** (Dutch Auction) được triển khai trên **smart contract Ethereum** (Sepolia Testnet), cho phép người bán tạo sản phẩm và người mua tham gia đấu giá với mức giá giảm dần theo thời gian.
@@ -29,14 +31,11 @@ Truy cập trang web demo tại: [https://trunq245.github.io/daugianguoc](https:
 ## 🖼 Giao diện người dùng
 
 ### Trang Admin (Tạo sản phẩm đấu giá)
-
-![Giao diện admin](images/admin.png)
-
+![admin](https://github.com/user-attachments/assets/dcec6fe2-a393-491e-a63a-dd823ea7a537)
 ---
-
 ### Trang Đấu giá (Người dùng xem và mua sản phẩm)
+![daugia](https://github.com/user-attachments/assets/2042b8f3-84ef-4f70-981c-8d232bed6154)
 
-![Giao diện đấu giá](images/daugia.png)
 
 ## ⚙️ Cách triển khai
 
